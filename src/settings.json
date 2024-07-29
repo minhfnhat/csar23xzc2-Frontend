@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Harness the power of artificial intelligence to streamline teamwork, boost productivity, and drive innovative success.",
+        "title": "Collaborate Smarter with AI-Powered Team Solutions"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Harness the power of artificial intelligence to streamline teamwork, boost productivity, and drive innovative success.",
+        "title": "Collaborate Smarter with AI-Powered Team Solutions"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Harness the power of artificial intelligence to streamline teamwork, boost productivity, and drive innovative success.",
+        "title": "Collaborate Smarter with AI-Powered Team Solutions"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Harness the power of artificial intelligence to streamline teamwork, boost productivity, and drive innovative success.",
+        "title": "Collaborate Smarter with AI-Powered Team Solutions"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Harness the power of artificial intelligence to streamline teamwork, boost productivity, and drive innovative success.",
+        "title": "Collaborate Smarter with AI-Powered Team Solutions"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Harness the power of artificial intelligence to streamline teamwork, boost productivity, and drive innovative success.",
+        "title": "Collaborate Smarter with AI-Powered Team Solutions"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Harness the power of artificial intelligence to streamline teamwork, boost productivity, and drive innovative success.",
+        "title": "Collaborate Smarter with AI-Powered Team Solutions"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Harness the power of artificial intelligence to streamline teamwork, boost productivity, and drive innovative success.",
+        "title": "Collaborate Smarter with AI-Powered Team Solutions"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Harness the power of artificial intelligence to streamline teamwork, boost productivity, and drive innovative success.",
+        "title": "Collaborate Smarter with AI-Powered Team Solutions"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Collaborate Smarter with AI-Powered Team Solutions",
+  "subtitle": "Harness the power of artificial intelligence to streamline teamwork, boost productivity, and drive innovative success."
+}
